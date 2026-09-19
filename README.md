@@ -1,6 +1,6 @@
 # 🚀 Next.js & Full-Stack Learning Journey
 
-স্বাগতম! এটি আমার Next.js এবং আধুনিক ওয়েব ডেভেলপমেন্ট শেখার এবং প্রতিদিনের অনুশীলন কোড সংরক্ষণের সেন্ট্রাল রিপোজিটরি (Mono-repo)।
+Welcome! This is my central repository (mono-repo) for learning Next.js and modern web development, and for storing daily practice code.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 📂 Repository Structure & Modules Overview
 
-নিচে প্রতিদিনের এবং প্রতিটি মডিউলের প্র্যাকটিস প্রজেক্টের তালিকা দেওয়া হলো:
+Below is the list of daily and each module's practice projects:
 
 | Module / Day | Project Name | Main Focus / Topics | Status |
 | :--- | :--- | :--- | :--- |
