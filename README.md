@@ -30,7 +30,7 @@ Below is a list of the daily and each module's practice projects:
 
 If you want to run any specific project from this repository locally:
 
-1.. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/codeby-fahim/next.js-learning-journey.git
 
@@ -45,13 +45,13 @@ If you want to run any specific project from this repository locally:
   npm run dev
 
 
-  📈 Learning Goals
-[x] Master Next.js App Router & Layouts
+ ## 📈 Learning Goals
+- [x] Master Next.js App Router & Layouts
 
-[x] Understand Server vs Client Components
+- [x] Understand Server vs Client Components
 
-[ ] Implement Server Actions & API Routes
+- [ ] Implement Server Actions & API Routes
 
-[ ] Full-Stack Integration with Database
+- [ ] Full-Stack Integration with Database
 
 Created with ❤️ by Md Rakibul Islam Fahim
