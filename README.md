@@ -1,6 +1,6 @@
 # 🚀 Next.js & Full-Stack Learning Journey
 
-Welcome! This is my central repository (mono-repo) for learning Next.js and modern web development, and for storing daily practice code.
+স্বাগতম! এটি আমার Next.js এবং আধুনিক ওয়েব ডেভেলপমেন্ট শেখার এবং প্রতিদিনের অনুশীলন কোড সংরক্ষণের সেন্ট্রাল রিপোজিটরি (Mono-repo)।
 
 ---
 
@@ -15,7 +15,7 @@ Welcome! This is my central repository (mono-repo) for learning Next.js and mode
 
 ## 📂 Repository Structure & Modules Overview
 
-Below is a list of the daily and each module's practice projects:
+নিচে প্রতিদিনের এবং প্রতিটি মডিউলের প্র্যাকটিস প্রজেক্টের তালিকা দেওয়া হলো:
 
 | Module / Day | Project Name | Main Focus / Topics | Status |
 | :--- | :--- | :--- | :--- |
@@ -31,27 +31,26 @@ Below is a list of the daily and each module's practice projects:
 If you want to run any specific project from this repository locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/codeby-fahim/next.js-learning-journey.git
+<pre><code>git clone https://github.com/codeby-fahim/nextjs-learning-journey.git</code></pre>
 
-2. Go to the folder of the specific project:   
-  ```bash
-  cd m33-rout-practise
+2. Go to the folder of the specific project:
+<pre><code>cd m33-rout-practise</code></pre>
+
 3. Install the dependencies:
-  ```bash
-  npm install
+<pre><code>npm install</code></pre>
+
 4. Run the development server:
-  ```bash
-  npm run dev
+<pre><code>npm run dev</code></pre>
 
+---
 
- ## 📈 Learning Goals
+## 📈 Learning Goals
+
 - [x] Master Next.js App Router & Layouts
-
 - [x] Understand Server vs Client Components
-
 - [ ] Implement Server Actions & API Routes
-
 - [ ] Full-Stack Integration with Database
+
+---
 
 Created with ❤️ by Md Rakibul Islam Fahim
