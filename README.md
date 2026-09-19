@@ -30,6 +30,28 @@ Below is a list of the daily and each module's practice projects:
 
 If you want to run any specific project from this repository locally:
 
-১. Clone the repository:
+1.. Clone the repository:
    ```bash
-   git clone [https://github.com/codeby-fahim/nextjs-learning-journey.git](https://github.com/codeby-fahim/next.js-learning-journey.git)
+   git clone https://github.com/codeby-fahim/next.js-learning-journey.git
+
+2. Go to the folder of the specific project:   
+  ```bash
+  cd m33-rout-practise
+3. Install the dependencies:
+  ```bash
+  npm install
+4. Run the development server:
+  ```bash
+  npm run dev
+
+
+  📈 Learning Goals
+[x] Master Next.js App Router & Layouts
+
+[x] Understand Server vs Client Components
+
+[ ] Implement Server Actions & API Routes
+
+[ ] Full-Stack Integration with Database
+
+Created with ❤️ by Md Rakibul Islam Fahim
