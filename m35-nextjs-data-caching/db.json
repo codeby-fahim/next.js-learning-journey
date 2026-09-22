@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "mouse",
+      "price": 59.99,
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.5,
+      "description": "Comfortable wireless headphones with clear sound, deep bass, and long-lasting battery life.",
+      "image": "https://example.com/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "super Smart Watch",
+      "price": 89.99,
+      "category": "Electronics",
+      "stock": 15,
+      "rating": 4.3,
+      "description": "A stylish smart watch with fitness tracking, heart rate monitoring, notifications, and multiple sports modes.",
+      "image": "https://example.com/smartwatch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "spaceship sandals",
+      "price": 74.99,
+      "category": "Footwear",
+      "stock": 30,
+      "rating": 4.7,
+      "description": "Lightweight running shoes designed for everyday workouts with comfortable cushioning and good support.",
+      "image": "https://example.com/shoes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "price": 39.99,
+      "category": "Accessories",
+      "stock": 40,
+      "rating": 4.4,
+      "description": "Durable laptop backpack with multiple compartments for laptops, books, chargers, and other daily essentials.",
+      "image": "https://example.com/backpack.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 69.99,
+      "category": "Electronics",
+      "stock": 20,
+      "rating": 4.6,
+      "description": "Responsive mechanical keyboard with tactile keys, comfortable typing, and a durable design for work and gaming.",
+      "image": "https://example.com/keyboard.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Water Bottle",
+      "price": 19.99,
+      "category": "Lifestyle",
+      "stock": 50,
+      "rating": 4.2,
+      "description": "Reusable stainless steel water bottle that keeps drinks cold or hot for hours and is easy to carry.",
+      "image": "https://example.com/bottle.jpg"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 12.99,
+      "category": "Classic",
+      "stock": 20,
+      "rating": 4.4,
+      "description": "A classic American novel about wealth, love, dreams, and the pursuit of the American Dream.",
+      "image": "https://example.com/great-gatsby.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 18.99,
+      "category": "Self-Development",
+      "stock": 35,
+      "rating": 4.8,
+      "description": "A practical guide to building good habits, breaking bad ones, and making small improvements every day.",
+      "image": "https://example.com/atomic-habits.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The mahfuz obbet",
+      "author": "J.R.R. Tolkien",
+      "price": 14.99,
+      "category": "Fantasy",
+      "stock": 25,
+      "rating": 4.7,
+      "description": "An adventurous fantasy story following Bilbo Baggins as he joins a group of dwarves on an unexpected journey.",
+      "image": "https://example.com/the-hobbit.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 29.99,
+      "category": "Programming",
+      "stock": 15,
+      "rating": 4.6,
+      "description": "A programming book that explains principles and practices for writing readable, maintainable, and reliable code.",
+      "image": "https://example.com/clean-code.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 11.99,
+      "category": "Fiction",
+      "stock": 30,
+      "rating": 4.5,
+      "description": "A philosophical adventure about a young shepherd who follows his dreams and searches for a hidden treasure.",
+      "image": "https://example.com/the-alchemist.jpg"
+    },
+    {
+      "id": 6,
+      "title": "low Work",
+      "author": "Cal Newport",
+      "price": 17.99,
+      "category": "Productivity",
+      "stock": 22,
+      "rating": 4.6,
+      "description": "A guide to focused work and concentration in a distracted world, with strategies for improving productivity.",
+      "image": "https://example.com/deep-work.jpg"
+    }
+  ]
+}
